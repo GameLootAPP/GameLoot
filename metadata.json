@@ -1,0 +1,8 @@
+{
+  "name": "LootDrop",
+  "description": "The ultimate social platform for gamers to share clips, setups, and highlights. Features AI-powered caption generation and a dedicated gamer community interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
